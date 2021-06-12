@@ -1,0 +1,6 @@
+framework module Pods_BhoomiUtilityFramework_Example {
+  umbrella header "Pods-BhoomiUtilityFramework_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
